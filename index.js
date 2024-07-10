@@ -7,6 +7,8 @@ const leetCode = require("./scripts/leetcode");
 const hackerRank = require("./scripts/hackerrank");
 require("dotenv").config();
 
+// Something...
+
 // If modifying these scopes, delete token.json.
 const SCOPES = ["https://www.googleapis.com/auth/spreadsheets"];
 // The file token.json stores the user's access and refresh tokens, and is
